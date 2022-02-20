@@ -6,6 +6,7 @@
 An app built in React giving people current temperature for cities.
 
 <br>
+
 [Link to the deployed app](https://jitasek.github.io/react-weather-app/)
 <br>
 
