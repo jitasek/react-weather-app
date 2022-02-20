@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+<br>
+
+An app built in React giving people current temperature for cities.
+
+<br>
 [Link to the deployed app](https://jitasek.github.io/react-weather-app/)
 <br>
 
