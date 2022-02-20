@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+[Link to the deployed app](https://jitasek.github.io/react-weather-app/)
+<br>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
